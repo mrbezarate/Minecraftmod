@@ -1,0 +1,607 @@
+{
+  "home": null,
+  "hasShelter": false,
+  "knownLocations": {
+    "explore_1769305688934": {
+      "x": 35.32482839689179,
+      "y": 69,
+      "z": 6.1956579715596956,
+      "type": "explore",
+      "timestamp": 1769305688934
+    },
+    "explore_1769305720584": {
+      "x": -23.58026935716753,
+      "y": 72,
+      "z": 2.9113367361826823,
+      "type": "explore",
+      "timestamp": 1769305720584
+    },
+    "explore_1769305729647": {
+      "x": -50.09773146559841,
+      "y": 66.79673560066871,
+      "z": 23.73410162670463,
+      "type": "explore",
+      "timestamp": 1769305729647
+    },
+    "explore_1769305742696": {
+      "x": -58.586296587219394,
+      "y": 63,
+      "z": -28.07331649289383,
+      "type": "explore",
+      "timestamp": 1769305742696
+    },
+    "explore_1769305763899": {
+      "x": -42.33532888056902,
+      "y": 61.96383091066177,
+      "z": 13.021126302273466,
+      "type": "explore",
+      "timestamp": 1769305763899
+    },
+    "explore_1769305816393": {
+      "x": -81.81199628531982,
+      "y": 62.386840787009334,
+      "z": 60.536850531939535,
+      "type": "explore",
+      "timestamp": 1769305816393
+    },
+    "explore_1769306170047": {
+      "x": -51.2693349966829,
+      "y": 65,
+      "z": 116.54338968321952,
+      "type": "explore",
+      "timestamp": 1769306170047
+    },
+    "explore_1769306342443": {
+      "x": -111.92265566890308,
+      "y": 65,
+      "z": 53.0433689370934,
+      "type": "explore",
+      "timestamp": 1769306342443
+    }
+  },
+  "resourceLocations": {},
+  "chests": {},
+  "dangerousAreas": [],
+  "stats": {
+    "mobsKilled": 0,
+    "itemsCrafted": 0,
+    "blocksMined": 0
+  },
+  "achievedGoals": [],
+  "goals": [
+    {
+      "id": "pid0e7mjg",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305064462,
+      "completedAt": 1769305553965
+    },
+    {
+      "id": "jzyzgh2ai",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305554324,
+      "completedAt": 1769305554946
+    },
+    {
+      "id": "0ji2pzmpx",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305555336,
+      "completedAt": 1769305555933
+    },
+    {
+      "id": "yegslgzeq",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305556344,
+      "completedAt": 1769305556954
+    },
+    {
+      "id": "2m3lj0jhh",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305557346,
+      "completedAt": 1769305557954
+    },
+    {
+      "id": "wc01nn4be",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305558348,
+      "completedAt": 1769305559003
+    },
+    {
+      "id": "8s32dyjv1",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305559373,
+      "completedAt": 1769305559995
+    },
+    {
+      "id": "cjllm9tcf",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305560389,
+      "completedAt": 1769305560993
+    },
+    {
+      "id": "cq2zn2gm3",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305561394,
+      "completedAt": 1769305562002
+    },
+    {
+      "id": "2l7mnwfh1",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305562395,
+      "completedAt": 1769305563031
+    },
+    {
+      "id": "xy3kisfjt",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305563402,
+      "completedAt": 1769305563989
+    },
+    {
+      "id": "sop2ycj5e",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305564426,
+      "completedAt": 1769305565001
+    },
+    {
+      "id": "qemso2kkw",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305565428,
+      "completedAt": 1769305566019
+    },
+    {
+      "id": "chk3rimkk",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305566443,
+      "completedAt": 1769305567062
+    },
+    {
+      "id": "2h5nb97is",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305567443,
+      "completedAt": 1769305568123
+    },
+    {
+      "id": "bsaimce71",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305568444,
+      "completedAt": 1769305569152
+    },
+    {
+      "id": "kq5f16hmc",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305569445,
+      "completedAt": 1769305570148
+    },
+    {
+      "id": "if2dvhhkq",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305570474,
+      "completedAt": 1769305571080
+    },
+    {
+      "id": "fa65aq970",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305571494,
+      "completedAt": 1769305572081
+    },
+    {
+      "id": "5ghnrt5ji",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305572495,
+      "completedAt": 1769305573081
+    },
+    {
+      "id": "v1zoim5y7",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305573522,
+      "completedAt": 1769305574104
+    },
+    {
+      "id": "l8hcr0e7t",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305574544,
+      "completedAt": 1769305575120
+    },
+    {
+      "id": "cks4uw74a",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305575545,
+      "completedAt": 1769305576138
+    },
+    {
+      "id": "vpeh98qn6",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305576544,
+      "completedAt": 1769305577150
+    },
+    {
+      "id": "btff8ttt4",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305577558,
+      "completedAt": 1769305578159
+    },
+    {
+      "id": "wlm7rv5q3",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305578572,
+      "completedAt": 1769305579188
+    },
+    {
+      "id": "g96diq791",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305579594,
+      "completedAt": 1769305580182
+    },
+    {
+      "id": "yock0v6yo",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305580609,
+      "completedAt": 1769305581182
+    },
+    {
+      "id": "1ufclqdia",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305581619,
+      "completedAt": 1769305582188
+    },
+    {
+      "id": "kld2cqto3",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305582644,
+      "completedAt": 1769305583199
+    },
+    {
+      "id": "0bg4nn3my",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305583654,
+      "completedAt": 1769305584206
+    },
+    {
+      "id": "tfej0er9k",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305584678,
+      "completedAt": 1769305585240
+    },
+    {
+      "id": "cmu0cnr60",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305585694,
+      "completedAt": 1769305586241
+    },
+    {
+      "id": "j61r9ixsq",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305586700,
+      "completedAt": 1769305587265
+    },
+    {
+      "id": "7vwwdy4g6",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305587714,
+      "completedAt": 1769305588278
+    },
+    {
+      "id": "de6hlq8yd",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305588726,
+      "completedAt": 1769305589288
+    },
+    {
+      "id": "8l6wfahar",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305589743,
+      "completedAt": 1769305590291
+    },
+    {
+      "id": "h3riaun63",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305590744,
+      "completedAt": 1769305591289
+    },
+    {
+      "id": "ge1i49k44",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "completed",
+      "subGoals": [],
+      "created": 1769305591744,
+      "completedAt": 1769305592297
+    },
+    {
+      "id": "bfzzpc80h",
+      "type": "gather",
+      "params": {
+        "item": "oak_log",
+        "count": 10
+      },
+      "priority": 50,
+      "status": "pending",
+      "subGoals": [],
+      "created": 1769305592745
+    },
+    {
+      "id": "5ffdv7uba",
+      "type": "gather",
+      "params": {
+        "item": "cobblestone",
+        "count": 100
+      },
+      "priority": 80,
+      "status": "pending",
+      "subGoals": [],
+      "created": 1769306342909
+    }
+  ],
+  "zones": {},
+  "blueprints": {},
+  "inventoryState": {}
+}
